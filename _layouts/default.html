@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+</head>
+<body>
+  <div class="container">
+    {{ content }}
+  </div>
+</body>
+<footer class="footer">
+    <nav class="social">
+		{% if site.social.github %}
+		  <a href="https://github.com/{{ site.social.github }}"><i class="icon-github-circled"></i></a>
+		{% endif %}
+		{% if site.social.linkedin %}
+		  <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}"><i class="icon-linkedin-squared"></i></a>
+		{% endif %}
+		{% if site.social.instagram %}
+		  <a href="https://instagram.com/{{ site.social.instagram }}"><i class="icon-instagram"></i></a>
+		{% endif %}
+	</nav>
+</footer>
+</html>

@@ -1,0 +1,16 @@
+I"�<h2 id="press-here-to-play"><a href="https://bergrosgigja.itch.io/nightmare">Press here to Play!</a></h2>
+
+<p>Game by Alexander Freyr Brynjarsson, Bergrós Gígja Þorsteinsdóttir, Bjarki Freyr and Íris Dögg Skarphéðinsdóttir in the course SC-T-634-AGDD Advanced Game Design &amp; Development at the University of Reykjavík.</p>
+
+<h2 id="description">Description</h2>
+<p>Nightmare is a 3rd person shooter game about a teddy bear that needs to save himself and a child from these nightmares during the night. If he’s lucky enough to survive the night, the teddy can be upgraded to help him with the next one.</p>
+
+<h2 id="development">Development</h2>
+<p>The game was created using Unity/C#. 2D assets were drawn using Krita software.</p>
+
+<h3 id="my-contributions">My Contributions:</h3>
+<ul>
+  <li>UI minimap and player health bars</li>
+  <li>Upgrade screen and scene manager</li>
+</ul>
+:ET

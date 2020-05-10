@@ -1,1 +1,39 @@
-theme: jekyll-theme-hacker
+name:               "Bergrós Gígja Þorsteinsdóttir"
+description:        "Portfolio"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    link:           "about"
+  - name:           "CV"
+    link:           "resume.pdf"
+
+social:
+  github:         "bergrosgigja"
+  linkedin:       "bergrosgigja"
+  instagram:      "bergrosgigja"
+
+sass:
+  style:            :compressed
+  sass_dir:         _sass
+
+plugins:
+  - jemoji
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"

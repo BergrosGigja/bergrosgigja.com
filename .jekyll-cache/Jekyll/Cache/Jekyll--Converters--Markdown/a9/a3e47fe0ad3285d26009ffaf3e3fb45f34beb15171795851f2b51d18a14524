@@ -1,0 +1,48 @@
+I" <p class="lead"> A game created for the course T-624-CGDD @Reykjavik University.</p>
+
+<p><img src="https://i.imgur.com/K4zCwNH.png" alt="The Recreation Of Adam" /></p>
+
+<h2 id="press-here-to-play"><a href="https://onehitwonders.itch.io/the-recreation-of-adam">Press here to Play!</a></h2>
+
+<p>This Game was developed in the 3 week course: Computer Game Design &amp; Development.<br />
+Our team <strong>One Hit Wonders</strong> consists of:</p>
+
+<h3 id="anna-lára-sigurðardóttir-annasig95"><strong>Anna Lára Sigurðardóttir</strong> <a href="https://github.com/Annasig95">@Annasig95</a></h3>
+<ul>
+  <li>Dialog mechanics</li>
+  <li>Character sounds</li>
+</ul>
+
+<h3 id="bergrós-gígja-þorsteinsdóttir-bergrosgigja"><strong>Bergrós Gígja Þorsteinsdóttir</strong> <a href="https://github.com/bergrosgigja">@BergrosGigja</a></h3>
+<ul>
+  <li>Art &amp; animations</li>
+  <li>Camera &amp; character movement</li>
+  <li>Dialog writing</li>
+  <li>Sound effects</li>
+</ul>
+
+<h3 id="íris-dögg-skarphéðinsdóttir-irisdogg"><strong>Íris Dögg Skarphéðinsdóttir</strong> <a href="https://github.com/irisdogg">@irisdogg</a></h3>
+<ul>
+  <li>Team leader</li>
+  <li>Lead programmer</li>
+</ul>
+
+<h3 id="attribution-to-assets-used-but-not-created-by-us-can-be-found-here">Attribution to assets used but not created by us can be found <a href="https://github.com/BergrosGigja/The-recreation-of-Adam/blob/master/Attribution.md">here</a></h3>
+
+<h2 id="context">Context</h2>
+
+<p>The is a 2D scroll view game set in Blobbytown, a black and white town with a sinister atmosphere.
+After an accident, Adam wakes up in a hospital without any memories of what had happened. The world he wakes up in, is very different from the world he used to know, as it used to be so vibrant and colorful. He decides to embark on the journey of finding the colors and what happened to them. As the story unravels he will soon discover the truth and be faced with the decisions regarding Blobbytowns future. The gloomy theme of the game is combined with a dark humorous aspect.</p>
+
+<p><img src="https://i.imgur.com/kqcoUzD.gif" alt="" /></p>
+
+<h2 id="how-to-play">How to play</h2>
+
+<p>This game uses mouse click controls. Point and click on the floor to help Adam walk. You can also click on people to talk to them and on items to see them up close.</p>
+
+<p><img src="https://i.imgur.com/w4mz37S.gif" alt="" /></p>
+
+<h2 id="design-goals">Design Goals</h2>
+
+<p>Our desired goal is that the player will feel adventurous as he goes through the story while feeling delighted over the many details in the game. We added a problem solving aspect to the game to challenge the player and make him feel accomplished when he finds the colors. While the story keeps players interested, they should also feel creative as their actions have effect on how colors appear in the world.</p>
+:ET

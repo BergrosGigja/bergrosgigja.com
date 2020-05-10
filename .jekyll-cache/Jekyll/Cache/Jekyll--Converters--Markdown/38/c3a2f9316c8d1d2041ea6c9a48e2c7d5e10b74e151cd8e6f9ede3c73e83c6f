@@ -1,0 +1,54 @@
+I"�<h1 id="agdd_final-game">AGDD_Final-Game</h1>
+
+<p>Game by Alexander Freyr Brynjarsson, Bergrós Gígja Þorsteinsdóttir, Bjarki Freyr and Íris Dögg Skarphéðinsdóttir in the course SC-T-634-AGDD Advanced Game Design &amp; Development at the University of Reykjavík.</p>
+
+<h2 id="game-play">Game-play</h2>
+
+<p><em>Description of gameplay</em></p>
+
+<h3 id="prerequisites">Prerequisites</h3>
+
+<p>To be able to play the game you need access to a demo of the game on Itch.io.</p>
+
+<ul>
+  <li>Access <a href="https://http.cat/404">Itch website</a></li>
+  <li>Download the game</li>
+</ul>
+
+<h3 id="running-the-game">Running the game</h3>
+
+<p>Unzip, open the folder and Click on <code class="highlighter-rouge">finalGame.exe</code>, choose your preferred screen resolution and graphics quality and finally run it by pressing <code class="highlighter-rouge">Play!</code>.</p>
+
+<h4 id="game-mechanics">Game Mechanics</h4>
+
+<p><em>Game mechanic descriptions go here</em></p>
+
+<h4 id="example-of-gameplay">Example of gameplay</h4>
+
+<p><img src="" alt="Main Screen" />
+<img src="" alt="Gameplay" />
+<img src="" alt="End Screen" /></p>
+
+<h4 id="known-problems">Known problems</h4>
+
+<p><em>Known problems go here</em></p>
+
+<h2 id="built-with-and-compiled-on">Built With and Compiled On</h2>
+
+<ul>
+  <li>Unity 2018.3.6f1 Personal on Windows 10 Home 1803</li>
+</ul>
+
+<h2 id="attributes">Attributes</h2>
+
+<p>See <a href="ATTRIBUTES.md">Attributes.</a></p>
+
+<h2 id="author">Author</h2>
+
+<ul>
+  <li><strong>Alexander Freyr Brynjarsson</strong> - <em>alexanderb16@ru.is</em> - <a href="https://github.com/allifreyr">Allifreyr</a></li>
+  <li><strong>Bergrós Gígja Þorsteinsdóttir</strong> - <em>bergros16@ru.is</em> - <a href="https://github.com/BergrosGigja">BergrosGigja</a></li>
+  <li><strong>Bjarki Freyr</strong> - <em>bjarkif16@ru.is</em> - <a href="https://github.com/bjarki95">Bjarki95</a></li>
+  <li><strong>Íris Dögg Skarphéðinsdóttir</strong> - <em>iriss16@ru.is</em> - <a href="https://github.com/irisdogg">IrisDogg</a></li>
+</ul>
+:ET

@@ -1,0 +1,25 @@
+I"�<p><img src="https://i.imgur.com/kqcoUzD.gif" alt="" /></p>
+
+<h2 id="press-here-to-play"><a href="https://onehitwonders.itch.io/the-recreation-of-adam">Press here to Play!</a></h2>
+
+<p>Game by Anna Lára Sigurðardóttir, Bergrós Gígja Þorsteinsdóttir and Íris Dögg Skarphéðinsdóttir in the course SC-T-624-CGDD Computer Game Design &amp; Development at the University of Reykjavík.</p>
+
+<h2 id="description">Description</h2>
+<p>The Recreation of Adam is a 2D scroll view puzzle game following Adam and his journey after waking up from an accident. The world he wakes up in is very different from the world he used to know, as it used to be so vibrant and colorful. He decides look for the colors and find out what happened to them. As the story unravels he will soon discover the truth and be faced with the decisions regarding Blobbytowns future.</p>
+
+<p><img src="https://i.imgur.com/w4mz37S.gif" alt="" /></p>
+
+<h2 id="development">Development</h2>
+<p>The 2D scroll view game was created using Unity/C#. Most art assets were drawn using Krita software.</p>
+
+<h3 id="my-contributioins">My Contributioins:</h3>
+<ul>
+  <li>Art &amp; animations</li>
+  <li>Camera &amp; character movement</li>
+  <li>Dialog writing</li>
+  <li>Sound effects</li>
+</ul>
+
+<h2 id="design-goals">Design Goals</h2>
+<p>Our desired goal is that the player will feel adventurous as he goes through the story while feeling delighted over the many details in the game. We added a problem solving aspect to the game to challenge the player and make him feel accomplished when he finds the colors. While the story keeps players interested, they should also feel creative as their actions have effect on how colors appear in the world.</p>
+:ET
