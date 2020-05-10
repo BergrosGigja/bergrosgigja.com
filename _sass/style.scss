@@ -227,13 +227,6 @@ pre code {
   border-radius: 0;
 }
 
-/*img {
-  display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
-  border-radius: 5px;
-}*/
-
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -353,8 +346,15 @@ tbody tr:nth-child(odd) th {
 
     &:focus {
     text-decoration: none;
+    }
   }
-}
+
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 0 0 1rem;
+    border-radius: 5px;
+  }
 }
 
 .list {
