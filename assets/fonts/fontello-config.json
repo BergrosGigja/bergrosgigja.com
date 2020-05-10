@@ -7,24 +7,6 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "531bc468eecbb8867d822f1c11f1e039",
-      "css": "calendar",
-      "code": 59392,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "0f6a2573a7b6df911ed199bb63717e27",
-      "css": "github-circled",
-      "code": 61595,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "906348dc798a0d42715cc97c875e3ac6",
-      "css": "twitter-squared",
-      "code": 62212,
-      "src": "fontawesome"
-    },
-    {
       "uid": "1145676a91138011729fa2909997af66",
       "css": "linkedin-squared",
       "code": 62220,
@@ -37,9 +19,45 @@
       "src": "fontawesome"
     },
     {
+      "uid": "906348dc798a0d42715cc97c875e3ac6",
+      "css": "twitter-squared",
+      "code": 62212,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0ece9a12de796b8411f868d582bee678",
+      "css": "github-squared",
+      "code": 62208,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
+      "src": "fontawesome"
+    },
+    {
       "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
       "css": "instagram",
       "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 61665,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 61593,
       "src": "fontawesome"
     },
     {
@@ -49,21 +67,9 @@
       "src": "fontawesome"
     },
     {
-      "uid": "199c44bca402ec5a6351f75ba5228375",
-      "css": "dribbble",
-      "code": 61821,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "79689c4c425b7cdaa2746f510e81e27a",
-      "css": "pinterest-squared",
-      "code": 61651,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "649004fb1ed50395a33c3780236ba8aa",
-      "css": "flickr",
-      "code": 61806,
+      "uid": "555ef8c86832e686fef85f7af2eb7cde",
+      "css": "left-big",
+      "code": 59393,
       "src": "fontawesome"
     }
   ]

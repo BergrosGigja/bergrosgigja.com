@@ -301,8 +301,7 @@ tbody tr:nth-child(odd) th {
 
     a {
       color: #aaa;
-      font-weight: 300;
-      text-transform: lowercase;
+      font-weight: 400;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
               transition: all .2s ease;
@@ -338,7 +337,7 @@ tbody tr:nth-child(odd) th {
 
   a {
     padding: .3rem;
-    color: #e01b5d;
+    color: $accentcolor;
 
     &:hover {
     text-shadow: .1rem .1rem #333;
@@ -364,12 +363,12 @@ tbody tr:nth-child(odd) th {
     a {
       padding: .3rem;
       color: #fff;
-      background-color: #e01b5d;
+      background-color: $accentcolor;
 
       &:hover {
         color: #fff;
         background-color: #333;
-        text-shadow: .1rem .1rem #e01b5d;
+        text-shadow: .1rem .1rem $accentcolor;
       }
 
       &:focus {
@@ -403,7 +402,7 @@ tbody tr:nth-child(odd) th {
 
   .social {
     a {
-      color: #e01b5d;
+      color: $accentcolor;
 
       &:hover,
       &:focus {

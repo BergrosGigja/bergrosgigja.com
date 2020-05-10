@@ -3,10 +3,13 @@ title: About
 permalink: /about/
 ---
 
+<img src="../assets/photoself.png">
+
 <p class="lead">Hi! :wave: I'm Bergrós</p>
 
 <p>
-:video_game: Software Developer at Solid Clouds<br>
 :round_pushpin: Located in Reykjavik, Iceland<br>
-:mailbox_with_mail: bergrosgigja@gmail.com
+:coffee: Software Developer at Solid Clouds<br>
+:video_game: Enjoy playing & developing games<br>
+:art: Sometimes I paint
 </p>

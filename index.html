@@ -7,8 +7,8 @@ layout: default
   </h1>
   <nav class="masthead-nav">
     {% for nav in site.nav %}
-      {% if nav.remote %}
-      <a href="{{ nav.link }}">{{ nav.name }}</a>
+      {% if nav.download %}
+      <a href="{{ site.baseurl }}/{{ nav.link }}">{{ nav.name }}<i class="icon-download"></i></a>
       {% else %}
       <a href="{{ site.baseurl }}/{{ nav.link }}">{{ nav.name }}</a>
       {% endif %}

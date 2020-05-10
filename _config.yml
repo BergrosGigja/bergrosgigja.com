@@ -1,6 +1,8 @@
 name:               "Bergrós Gígja Þorsteinsdóttir"
 description:        "Portfolio"
 
+accentcolor:        "#e01b5d"
+
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
@@ -9,8 +11,10 @@ markdown:           kramdown
 nav:
   - name:           "About"
     link:           "about"
+    download:       false
   - name:           "CV"
     link:           "resume.pdf"
+    download:       true
 
 social:
   github:         "bergrosgigja"

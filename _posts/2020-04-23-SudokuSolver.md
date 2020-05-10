@@ -2,7 +2,7 @@
 title: "Sudoku Solver"
 ---
 
-A sudoku solver using pygame
+<p class="lead">A sudoku solver created with pygame</p>
 
 ## [Github](https://github.com/BergrosGigja/Sudoku-solver)
 
