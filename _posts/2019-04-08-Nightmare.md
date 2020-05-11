@@ -2,6 +2,8 @@
 title: "Nightmare"
 ---
 
+![](https://i.imgur.com/HhJDnjr.gif)
+
 ## [Press here to Play!](https://bergrosgigja.itch.io/nightmare)
 
 Game by Alexander Freyr Brynjarsson, Bergrós Gígja Þorsteinsdóttir, Bjarki Freyr and Íris Dögg Skarphéðinsdóttir in the course SC-T-634-AGDD Advanced Game Design & Development at the University of Reykjavík.
