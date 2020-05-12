@@ -1,5 +1,6 @@
 ---
 title: "Sudoku Solver"
+type:  "Project"
 ---
 
 ![](https://i.imgur.com/aAieSnR.gif)

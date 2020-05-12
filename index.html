@@ -25,7 +25,7 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
     <div class="list-post-date">
-      <time>{{ post.date | date_to_string }}</time>
+      <p><time>{{ post.date | date_to_string }}</time> - {{ post.type }}</p>
     </div>
   </div>
 {% endfor %}

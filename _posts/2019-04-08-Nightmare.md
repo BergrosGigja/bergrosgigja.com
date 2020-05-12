@@ -1,5 +1,6 @@
 ---
 title: "Nightmare"
+type:  "Project"
 ---
 
 ![](https://i.imgur.com/HhJDnjr.gif)

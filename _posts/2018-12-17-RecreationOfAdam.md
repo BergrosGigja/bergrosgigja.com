@@ -1,5 +1,6 @@
 ---
-title: The Recreation of Adam
+title: "The Recreation of Adam"
+type:  "Project"
 ---
 
 ![](https://i.imgur.com/kqcoUzD.gif)
