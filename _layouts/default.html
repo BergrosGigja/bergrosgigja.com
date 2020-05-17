@@ -7,6 +7,9 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+  {% if site.google_analytics %}
+  	{% include analytics.html %}
+  {% endif %}
 </head>
 <body>
   <div class="container">

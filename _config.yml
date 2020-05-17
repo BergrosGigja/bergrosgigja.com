@@ -6,6 +6,8 @@ accentcolor:        "#e01b5d"
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
+google_analytics:   UA-164668668-1
+
 markdown:           kramdown
 
 nav:
