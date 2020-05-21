@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
   {% if site.google_analytics %}
@@ -12,6 +13,8 @@
   {% endif %}
 </head>
 <body>
+  <div class="color-box">
+  </div>
   <div class="container">
     {{ content }}
   </div>
@@ -26,6 +29,15 @@
 		{% endif %}
 		{% if site.social.instagram %}
 		  <a href="https://instagram.com/{{ site.social.instagram }}"><i class="icon-instagram"></i></a>
+		{% endif %}
+		{% if site.social.facebook %}
+		  <a href="https://facebook.com/{{ site.social.facebook }}"><i class="icon-facebook-squared"></i></a>
+		{% endif %}
+		{% if site.social.twitter %}
+		  <a href="https://twitter.com/{{ site.social.twitter }}"><i class="icon-twitter-squared"></i></a>
+		{% endif %}
+		{% if site.social.youtube %}
+		  <a href="https://youtube.com/channel/{{ site.social.youtube }}"><i class="icon-youtube"></i></a>
 		{% endif %}
 	</nav>
 </footer>

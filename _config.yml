@@ -1,15 +1,21 @@
-name:               "Bergrós Gígja Þorsteinsdóttir"
-description:        "Portfolio"
+# Site name
+name:               "Bergrós Gígja"
 
-accentcolor:        "#e01b5d"
+# Colors:
+accentcolor:        "#49c7b4"      # Green
+backdropcolor:      "#f8dd74"      # Yellow
 
+# Analytics
+google_analytics:   UA-164668668-1
+
+# URL
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
-google_analytics:   UA-164668668-1
-
+# Markdown
 markdown:           kramdown
 
+# Navbar
 nav:
   - name:           "About"
     link:           "about"
@@ -18,10 +24,14 @@ nav:
     link:           "resume.pdf"
     download:       true
 
+# Social links footer
 social:
   github:         "bergrosgigja"
   linkedin:       "bergrosgigja"
   instagram:      "bergrosgigja"
+  #facebook:       ""
+  #twitter:        ""
+  #youtube:        ""
 
 sass:
   style:            :compressed

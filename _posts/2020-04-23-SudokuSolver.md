@@ -1,6 +1,6 @@
 ---
-title: "Sudoku Solver"
-type:  "Project"
+title:        "Sudoku Solver"
+description:  "Sudoku solver made with pygame"
 ---
 
 ![](https://i.imgur.com/aAieSnR.gif)

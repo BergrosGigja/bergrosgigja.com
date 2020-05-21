@@ -1,6 +1,6 @@
 ---
-title: "Nightmare"
-type:  "Project"
+title:        "Nightmare"
+description:  "Video game made with Unity"
 ---
 
 ![](https://i.imgur.com/HhJDnjr.gif)

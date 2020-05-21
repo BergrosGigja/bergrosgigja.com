@@ -1,6 +1,6 @@
 ---
-title: "The Recreation of Adam"
-type:  "Project"
+title:        "The Recreation of Adam"
+description:  "Video game made with Unity"
 ---
 
 ![](https://i.imgur.com/kqcoUzD.gif)
