@@ -9,8 +9,8 @@ permalink: /about/
 
 <p>
 :round_pushpin: Located in Reykjavik, Iceland<br>
-:coffee: Software Developer at Solid Clouds<br>
+:computer: Software Developer at Solid Clouds<br>
 :video_game: I Enjoy playing & developing games<br>
-:art: And sometimes I like to paint<br>
-:mailbox_with_mail: Send me a line, bergrosgigja@gmail.com
+:crystal_ball: I have a curious and creative mind<br>
+:art: And sometimes I like to paint
 </p>
