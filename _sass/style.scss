@@ -351,6 +351,19 @@ tbody tr:nth-child(odd) th {
   &-title {
     margin-bottom: 2rem;
   }
+
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 0 0 1rem;
+    border-radius: 5px;
+  }
+
+  p img {
+    display: inline-block;
+    margin: 0 0 0;
+    border-radius: 0px;
+  }
 }
 
 .post {
@@ -381,6 +394,12 @@ tbody tr:nth-child(odd) th {
     max-width: 100%;
     margin: 0 0 1rem;
     border-radius: 5px;
+  }
+
+  p img {
+    display: inline-block;
+    margin: 0 0 0;
+    border-radius: 0px;
   }
 }
 
