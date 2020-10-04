@@ -16,8 +16,8 @@ markdown:           kramdown
 
 # Navbar
 nav:
-  - name:           "About"
-    link:           "about"
+  - name:           "Blog"
+    link:           "blog"
     download:       false
   - name:           "CV"
     link:           "resume.pdf"

@@ -15,20 +15,22 @@ layout: default
     <a href="{{ site.baseurl }}/">{{ site.name }}</a>
   </h1>
 </header>
-<div class="content list">
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% else %}
-{% for post in site.posts %}
-  <div class="list-item">
-    <h2 class="list-post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    <div class="list-post-small">
-      <time class="list-post-small-date">{{ post.date | date_to_string }}</time>
-      <p class="list-post-small-desc">- {{ post.description }}</p>
-    </div>
-  </div>
-{% endfor %}
-{% endif %}
+<div class="content page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  <img src="../assets/photoself.png">
+
+  <p class="lead">Hi! :wave: I'm Bergrós.</p>
+
+  <p>
+  :round_pushpin: Located in Reykjavik, Iceland<br>
+  :computer: Software Developer at Solid Clouds<br>
+  </p>
+
+  In my current position at Solid Clouds I work closely with artists and designers to create the UI for <a href="https://starborne.com/">Starborne</a> using Unity/C#. Im interested in exploring other sides of game programming such as gameplay, engine and/or graphics. 
+  <br><br>
+  This page is a blog for my projects and thoughts on tech I'm trying out. Feel free to check it out to see what I've been up to.
+
+  <p><br>
+  :memo: I'd love to hear from you! bergros.gigja@gmail.com
+  </p>
 </div>
