@@ -24,8 +24,8 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #919191;
+  background-color: #333;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.1;
-  color: #333;
+  color: #919191;
   letter-spacing: -.025rem;
 }
 
@@ -132,7 +132,7 @@ hr {
 }
 
 strong {
-  color: #333;
+  color: #919191;
   font-weight: 600;
 }
 
@@ -248,19 +248,6 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
 }
 
-.color-box {
-  background-color: $backdropcolor;
-  display: block;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  height: 14.3rem;
-
-  @media (min-width: 36rem){
-    height: 17rem;
-  }
-}
-
 .container {
   position: relative;
   max-width: 38rem;
@@ -288,11 +275,11 @@ tbody tr:nth-child(odd) th {
 
       &:hover {
         text-decoration: none;
-        color: #333;
+        color: #919191;
       }
 
       &:focus {
-        color: #333;
+        color: #919191;
         text-decoration: none;
       }
 
@@ -310,12 +297,12 @@ tbody tr:nth-child(odd) th {
     font-family: 'Secular One', sans-serif;
 
     a {
-      color: #333;
-      text-shadow: 4px 2px 0 $accentcolor, -4px -2px 0 #fff;
+      color: #f2f2f2;
+      text-shadow: 4px 2px 0 $accentcolor, -4px -2px 0 #919191;
       transition: text-shadow 0.3s;
 
       &:hover {
-        text-shadow: 6px 3px 0 $accentcolor, -6px -3px 0 #fff;
+        text-shadow: 7px 4px 0 $accentcolor, -7px -4px 0 #919191;
         text-decoration: none;
       }
 
@@ -337,7 +324,7 @@ tbody tr:nth-child(odd) th {
     text-transform: uppercase;
 
     a {
-      color: #333;
+      color: $accentcolor;
 
       &:hover,
       &:focus {
@@ -357,6 +344,19 @@ tbody tr:nth-child(odd) th {
     max-width: 100%;
     margin: 0 0 1rem;
     border-radius: 5px;
+  }
+
+    a {
+    color: $accentcolor;
+    font-weight: bold;
+
+    &:hover {
+    text-shadow: .1rem .1rem #333;
+    }
+
+    &:focus {
+    text-decoration: none;
+    }
   }
 
   p img {
@@ -410,16 +410,15 @@ tbody tr:nth-child(odd) th {
 
     a {
       padding: .3rem;
-      color: #fff;
+      color: #f2f2f2;
       background-color: $accentcolor;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
               transition: all .2s ease;
 
       &:hover {
-        color: #fff;
+        color: $accentcolor;
         background-color: #333;
-        text-shadow: .1rem .1rem $accentcolor;
       }
 
       &:focus {
@@ -459,7 +458,7 @@ tbody tr:nth-child(odd) th {
 .footer {
 
   position: fixed;
-  background-color: #fff;
+  background-color: #333;
   height: 2rem;
   left: 0;
   bottom: 0;
@@ -472,7 +471,7 @@ tbody tr:nth-child(odd) th {
 
       &:hover,
       &:focus {
-      color: #333;
+      color: #919191;
       }
     }
   }

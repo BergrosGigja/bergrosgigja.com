@@ -5,12 +5,17 @@ permalink: /about/
 
 <img src="../assets/photoself.png">
 
-<p class="lead">Hi! :wave: I'm Bergrós</p>
+<p class="lead">Hi! :wave: I'm Bergrós.</p>
 
 <p>
 :round_pushpin: Located in Reykjavik, Iceland<br>
 :computer: Software Developer at Solid Clouds<br>
-:video_game: I Enjoy playing & developing games<br>
-:crystal_ball: I have a curious and creative mind<br>
-:art: And sometimes I like to paint
+</p>
+
+In my current position at Solid Clouds I work closely with artists and designers to create the UI for [Starborne](https://starborne.com/) using Unity/C#. Im interested in exploring other sides of game programming such as gameplay, engine and/or graphics. 
+
+This page is a blog, mostly about my projects and my thoughts on tech I'm trying out. Feel free check out the blog to see what I've been up to.
+
+<p>
+:memo: I'd love to hear from you! bergros.gigja@gmail.com<br>
 </p>
