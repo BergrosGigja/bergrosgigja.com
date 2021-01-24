@@ -4,15 +4,13 @@ description:  "Simple blog/portfolio Jekyll Theme"
 ---
 
 I recently discovered this phenomenon: Jekyll static site generator.
-When I realized how long this has been a thing I also realized I may have been living under a rock.
-I don't have much interest in web development and maybe that's why. 
-
-Either way my hate for HTML/CSS and love for Markdown made me research this further.
+I had a wix website but I was looking for something with less cost and simple to use.
+My love for markdown made me research Jekyll further and I ended up really liking it.
 
 ![](https://i.imgur.com/vogwIyg.png)
 
-I previously had a wix website but I wasn't a fan, I wanted something that cost less and I had more control. Having my site on github pages was also of course a huge plus.
-I wanted to find a simple or minimalistic blog that could also double as a sort of portfolio.
+I wanted to set up a simple or minimalistic blog or portfolio.
+I didn't want to start from scratch, so I found a minimalistic theme to build on.
 After finding the [Kiko theme](https://github.com/gfjaru/Kiko) by [gfjaru](https://github.com/gfjaru) I forked it and started working on top of it.
 
 The finished outcome is the [Sandcastle theme](https://bergrosgigja.github.io/Sandcastle/)
