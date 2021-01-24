@@ -12,9 +12,9 @@ permalink: /about/
 :computer: Software Developer at Solid Clouds<br>
 </p>
 
-In my current position at Solid Clouds I work closely with artists and designers to create the UI for [Starborne](https://starborne.com/) using Unity/C#. Im interested in exploring other sides of game programming such as gameplay, engine and/or graphics. 
+In my current position at Solid Clouds I work closely with artists and designers to create the UI for [Starborne](https://starborne.com/) using Unity/C#.
 
-This page is a blog, mostly about my projects and my thoughts on tech I'm trying out. Feel free check out the blog to see what I've been up to.
+This page is a blog, mostly about my projects and my thoughts on tech I'm trying out. Feel free check it out to see what I've been up to.
 
 <p>
 :memo: I'd love to hear from you! bergros.gigja@gmail.com<br>
