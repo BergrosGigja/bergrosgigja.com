@@ -18,7 +18,7 @@ These are all the tools needed:
 
 - **Visual studio**
 - **Unity 2019.x**
-- **dbSpy**
+- **dnSpy**
 - **QModManager**
 - **SML Helper** (optional, specific version for BZ)
 
